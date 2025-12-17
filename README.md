@@ -1,6 +1,6 @@
-# 🚀 Kodoninja: Ignite Your Inner Ninja - The Ultimate Self-Help Social Revolution! 🥋✨
+# 🚀 Ibth: The Ultimate Self-Help Social Platfrm
 
-**KodoNinja isn't just a platform—it's a movement.** We're forging a revolutionary social blogging experience, empowering you with cutting-edge self-help tools, a vibrant community, and features designed for profound personal growth. Built with a lean, no-framework philosophy, we prioritize blazing-fast performance, limitless scalability, and true user ownership through groundbreaking NFT-powered data management. 💥
+**Kodoninja is now ibth (International Business Transactions & Holdings / Immanuel Barry Taylor & Holdings).** We're forging a revolutionary social blogging experience, empowering you with cutting-edge self-help tools, a vibrant community, and features designed for profound personal growth. Built with a lean, no-framework philosophy, we prioritize blazing-fast performance, limitless scalability, and true user ownership through groundbreaking NFT-powered data management. 💥
 
 ---
 
